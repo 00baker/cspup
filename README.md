@@ -1,8 +1,7 @@
 # Computer Engineering Website
 
-##Requirements
+## Requirements
 - Django 1.11
 
-##Install
+## Install
 - `python manage.py runserver`
-s
